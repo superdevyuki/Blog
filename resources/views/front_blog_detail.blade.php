@@ -76,7 +76,6 @@
 
 </div>
 
-
 <footer>©　WAVE</footer>
 </body>
 </html>
